@@ -3,6 +3,8 @@ Pasaport kayıtlı ve ithalat kayıtlı telefon fiyatlarını bulur ve karşıla
 
 Windows [uygulamasından](https://teknoseyir.com/blog/telefon-fiyati-hesapla-v2) esinlenmiştir.
 
+DEMO https://telefonfiyathesapla.netlify.app/
+
 ## Project setup
 ```
 yarn install
