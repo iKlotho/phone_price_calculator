@@ -1,6 +1,8 @@
 # phone_price_calc
 Pasaport kayıtlı ve ithalat kayıtlı telefon fiyatlarını bulur ve karşılaştırır.
 
+Windows [uygulamasından](https://teknoseyir.com/blog/telefon-fiyati-hesapla-v2) esinlenmiştir.
+
 ## Project setup
 ```
 yarn install

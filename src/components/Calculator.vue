@@ -236,7 +236,7 @@ export default {
         pasaport: [
           {
             name: "TRT Payı",
-            value: this.trt,
+            value: this.trt.toFixed(3),
           },
           {
             name: "Kayıt Ücreti",
@@ -244,7 +244,7 @@ export default {
           },
           {
             name: "Toplam Maliyet",
-            value: this.salePricePasaport,
+            value: this.salePricePasaport.toFixed(3),
           },
         ],
         ithalat: [
