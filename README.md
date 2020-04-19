@@ -1,4 +1,5 @@
 # phone_price_calc
+Pasaport kayıtlı ve ithalat kayıtlı telefon fiyatlarını bulur ve karşılaştırır.
 
 ## Project setup
 ```
